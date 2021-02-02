@@ -1,4 +1,4 @@
-<# Team Workspace #>
+<# Team #>
 <# Servicios Básicos #>
 
 $credential = Get-Credential
